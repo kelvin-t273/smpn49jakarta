@@ -1,0 +1,6 @@
+{
+  "name": "Kelvin's Teacher",
+  "description": "Media pembelajaran interaktif IPA materi Sel, Organel Sel, dan Mikroskop dengan Virtual Lab, Asisten Virtual AI Pak Kelvin, Kuis 20 PG & 5 Esai, Sertifikat Kelulusan, dan Papan Refleksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
